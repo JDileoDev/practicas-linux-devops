@@ -1,0 +1,1 @@
+"Durante la práctica, se validó la importancia de usar visudo sobre nano. Un error de sintaxis en /etc/sudoers.d/ puede comprometer la estabilidad del comando sudo. Se utilizó visudo -c para diagnosticar archivos corruptos."
