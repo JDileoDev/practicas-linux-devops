@@ -1,0 +1,1 @@
+"Se detectó que el usuario dev-user1 tenía privilegios excesivos por pertenecer al grupo sudo. Se procedió a su remoción mediante deluser para restringir su acceso únicamente a los scripts autorizados en /etc/sudoers.d/."
