@@ -2,7 +2,7 @@
 
 #Simulacion:
 Se ocupada el puerto 8080 utilizando el comando nc -l 8080, de esta manera se queda escuchando en el puerto 8080
-![Acceso Total](img/simulacion-puerto.png)
+![Acceso Total](img/porblema-puerto.png)
 #Problema: El servicio no inicia porque el puerto 8080 ya está en uso
 
 #Diagnóstico: ss -tulpn | grep :8080 
