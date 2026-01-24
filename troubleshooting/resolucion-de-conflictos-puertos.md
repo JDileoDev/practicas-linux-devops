@@ -1,7 +1,6 @@
 ## CASO  Puerto Ocupado
 
-# Simulacion:
-Se ocupada el puerto 8080 utilizando el comando nc -l 8080, de esta manera se queda escuchando en el puerto 8080
+# Simulacion: Se ocupada el puerto 8080 utilizando el comando nc -l 8080, de esta manera se queda escuchando en el puerto 8080
 
 ![Acceso Total](img/porblema-puerto.png)
 
