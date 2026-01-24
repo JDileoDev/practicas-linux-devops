@@ -14,4 +14,4 @@ Se configuró un sistema donde el equipo de SRE puede ejecutar tareas críticas 
 2. **Script:** `/usr/local/bin/limpiar_logs.sh` (Propiedad de `root:sre`)
 3. **Permisos:** `750` (rwxr-x---)
 4. **Sudoers:** Configuración en `/etc/sudoers.d/sre-tools` usando `NOPASSWD`.
-5. ![Acceso Total](Captura_SRE.jpg)
+ ![Acceso Total](Captura_SRE.jpg)
